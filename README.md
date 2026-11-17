@@ -50,4 +50,3 @@ Some printed messages in the notebook are in Arabic.
 ## Authors
 
 - Mohammed Alhmoud · [Portfolio](https://mhmdalhmoud.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammed-alhmoud-559348234)
-- Laith Sweis
